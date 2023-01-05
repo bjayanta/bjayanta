@@ -1,4 +1,4 @@
-[![Jayanta](https://raw.githubusercontent.com/bjayanta/bjayanta/docs/assets/github-profile-banner.png)](http://jayanta.me/)
+[![Jayanta](https://raw.githubusercontent.com/bjayanta/bjayanta/master/docs/assets/github-profile-banner.png)](http://jayanta.me/)
 
 ## Hi there, it's Jayanta
 
