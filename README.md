@@ -1,8 +1,8 @@
+# Hello there! 👋🏻 I am [Jayanta!](https://www.linkedin.com/in/jayantabiswas/)
+
+## Full-Stack Web & Mobile app developer from Bangladesh
+
 [![Jayanta](https://raw.githubusercontent.com/bjayanta/bjayanta/master/docs/assets/github-profile-banner.png)](http://jayanta.me/)
-
-## Hello there! 👋🏻 I am [Jayanta](https://www.linkedin.com/in/jayantabiswas/)!
-
-### Full-Stack Web & Mobile app developer from Bangladesh
 
 Experienced Software Developer familiar with a wide range of programming utilities and languages. Knowledgeable of Full Stack (Backend and Frontend) and Mobile app development requirements. I am working as a developer since 2013 and I enjoy working on complex architecture systems with technologies.
 
@@ -12,12 +12,19 @@ Feel free to discuss any project related to my work experience and skills.
 
 - 🎓 I work as a full-stack web developer at [MaxSOP](https://maxsop.com/)
 - 🔭 I’m currently working on [Oporajito (SaaS)](https://www.oporajito.com/)
-- 🌱 I’m currently learning [Next.js](https://nodejs.org/en/)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/) & [Wordpress](https://wordpress.org/)
 - 💬 Ask me about **Laravel, ReactJS, Vue and Flutter**
 - 👨‍💻 All of my projects are available at [http://jayanta.me/](http://jayanta.me/works/)
 - 📫 How to reach me **bjayanta.me@gmail.com**
 <!-- - 📸 My youtube channel -->
 - 🔆 [The MaxSOP](https://github.com/themaxsop) and [CodeRill](https://github.com/Coderill) - My Github Organizations
+
+<!-- 
+## 🌱 I am currently learning
+
+![Next.js](https://img.shields.io/badge/Next.js-C21325?style=for-the-badge&logo=next.js&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-339933?style=for-the-badge&logo=Wordpress&logoColor=white) 
+-->
 
 ## Languages and Tools
 
@@ -39,19 +46,19 @@ Feel free to discuss any project related to my work experience and skills.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-## Statistics
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjayanta&show_icons=true&locale=en" alt="bjayanta" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bjayanta&" alt="bjayanta" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjayanta&show_icons=true&locale=en&layout=compact" alt="bjayanta" />
-
 ## Connect with Me 🤝🏻
 
-[![stackoverflow](https://img.shields.io/badge/StackOverflow-1DA1F2?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7766069/) &nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayantabiswas/) &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bjayanta) &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/bjayanta.me)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/bjayanta.me) &nbsp;
+[![stackoverflow](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7766069/)
 
-Thanks for dropping by to view my profile. Have a nice day.
+<!-- Thanks for dropping by to view my profile. Have a nice day. -->
+
+---
+
+[![bjayanta](https://github-readme-stats.vercel.app/api?username=bjayanta&show_icons=true&locale=en)](https://github-readme-stats.vercel.app/api?username=bjayanta&show_icons=true&locale=en)
+
+[![bjayanta](https://github-readme-streak-stats.herokuapp.com/?user=bjayanta&)](https://github-readme-streak-stats.herokuapp.com/?user=bjayanta)
+
+[![bjayanta](https://github-readme-stats.vercel.app/api/top-langs?username=bjayanta&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=bjayanta&show_icons=true&locale=en&layout=compact)
