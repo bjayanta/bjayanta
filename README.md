@@ -1,6 +1,6 @@
 [![Jayanta](https://raw.githubusercontent.com/bjayanta/bjayanta/master/docs/assets/github-profile-banner.png)](http://jayanta.me/)
 
-## Hello there! 👋🏻 I am Jayanta
+## Hello there! 👋🏻 I am [Jayanta](https://www.linkedin.com/in/jayantabiswas/)!
 
 ### Full-Stack Web & Mobile app developer from Bangladesh
 
