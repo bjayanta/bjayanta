@@ -2,7 +2,7 @@
 
 ## Full-Stack Web & Mobile app developer from Bangladesh
 
-[![Jayanta](https://raw.githubusercontent.com/bjayanta/bjayanta/master/assets/github-profile-banner.png)](http://jayanta.dev/)
+[![Jayanta](https://raw.githubusercontent.com/bjayanta/bjayanta/master/assets/github-profile-banner.jpg)](http://jayanta.dev/)
 
 Experienced Software Developer familiar with a wide range of programming utilities and languages. Knowledgeable of Full Stack (Backend and Frontend) and Mobile app development requirements. I am working as a developer since 2013 and I enjoy working on complex architecture systems with technologies.
 
